@@ -1,5 +1,14 @@
 # Comprehensive Analysis of US Road Accidents(2016-2023): EDA, Clustering, Prediction of Severity Assessment
 
+## Sections
+- **[Project Overview](#project-overview)**
+- **[Data Source](#data-source)**
+- **[Project Structure](#project-structure)**
+- **[Project Notebooks](#project-notebooks)**
+- **[Findings](#findings)**
+- **[Dependencies](#dependencies)**
+- **[Usage](#usage)**
+
 ## Project Overview
 
 In this project, I conducted a comprehensive analysis of US road accidents using the Kaggle dataset "US_Accidents_March23." The primary objective was to gain valuable insights into accident patterns and factors influencing their severity, duration, and distance. The project involved three main stages: data exploration and preprocessing, clustering analysis based on weather conditions, and accident severity prediction using K-Means, Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and Artificial Neural Networks (ANNs).
@@ -38,8 +47,6 @@ This project uses the following Python libraries:
 - Seaborn
 - Scikit-learn
 - TensorFlow (for ANN)
-
-Please refer to the individual notebooks for specific library requirements and installations.
 
 ## Usage
 
