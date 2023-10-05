@@ -1,4 +1,4 @@
-# Comprehensive Analysis of US Road Accidents(2016-2023): EDA, Clustering, Prediction of Severity Assessment
+# Comprehensive Analysis of US Road Accidents(2016-2023): Clustering, Prediction of Severity Assessment
 
 ## Sections
 - **[Project Overview](#project-overview)**
@@ -25,7 +25,7 @@ The project is organized into the following sections:
 
 - **Clustering Analysis**: This section involves data cleaning and preparing the data, followed by applying clustering techniques (K-Means and DBSCAN) to group accidents based on weather conditions.
 
-- **Accident Severity Prediction**: Using Artificial Neural Networks (ANNs), I developed a predictive model to classify accident severity. This involves preprocessing the data, training the model, and evaluating its performance.
+- **Accident Severity Prediction**: Using Artificial Neural Network (ANN) and Support Vector Machine (SVM), I developed a predictive model to classify accident severity. This involves preprocessing the data, training the model, and evaluating its performance.
 
 ## Project Notebooks
 
